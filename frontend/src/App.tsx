@@ -1,6 +1,17 @@
+import Footer from "components/Footer";
+import Navbar from "components/Navbar";
+import Table from "components/Table";
+
 function App() {
   return (
-    <p className="text-primary">Hello World</p>
+    <>
+      <Navbar />
+      <div className="container">
+        <h1 className="text-primary">Hello World</h1>
+        <Table />
+      </div>
+      <Footer />
+    </>
   );
 }
 
