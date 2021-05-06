@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="center"> 
-🚧  Finalizado  🚧
+🚧  Em construção  🚧
 </h3>
 
 ### 📎 Features 
@@ -37,6 +37,8 @@
 O DSVendas é um dashboard. Esse Projeto foi desenvolvido durante a semana do Next Level Week 5ª Edição. 
 
 ### ✅ Demonstração
+
+Em construção 
 <!-- <img src="https://github.com/gabriel-nt/Podcastr/blob/main/src/assets/home.png" /> -->
 
 ### ⚙ Pré-requisitos
