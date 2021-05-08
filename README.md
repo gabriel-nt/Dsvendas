@@ -47,6 +47,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 * Também, precisará ter instalado o [JDK](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) e o [Spring Boot Tools](https://spring.io/tools)
+* Possuir contas na [Heroku](https://dashboard.heroku.com) e [Netlify](https://app.netlify.com/) para deploys de back e front, respectivamente
 
 ### 📗 Rodando a Aplicação (web)
 
