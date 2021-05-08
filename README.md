@@ -34,7 +34,7 @@
 
 ### 💻 Projeto
 
-O DSVendas é um dashboard. Esse Projeto foi desenvolvido durante a semana do React Spring Boot da DevSuperior.
+O DSVendas é um dashboard. Esse Projeto foi desenvolvido durante a semana Spring React da DevSuperior.
 
 ### ✅ Demonstração
 
