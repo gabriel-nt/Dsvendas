@@ -10,6 +10,12 @@ type ChartData = {
 }
 
 const DonutChart = () => {
+  const options = {
+    legend: {
+      show: true
+    }
+  }
+
   const [isLoad, setIsLoad] = useState(false);
   const [chartData, setChartData] = useState<ChartData>({} as ChartData);
 
@@ -31,12 +37,6 @@ const DonutChart = () => {
 
     loadData();
   }, []);
-
-  const options = {
-    legend: {
-      show: true
-    }
-  }
 
   return (
     <>
