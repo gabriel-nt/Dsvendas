@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="center"> 
-🚧  Em construção  🚧
+🚧  Finalizado  🚧
 </h3>
 
 ### 📎 Features 
@@ -34,12 +34,11 @@
 
 ### 💻 Projeto
 
-O DSVendas é um dashboard. Esse Projeto foi desenvolvido durante a semana do React Spring Boot da DevSuperior
+O DSVendas é um dashboard. Esse Projeto foi desenvolvido durante a semana do React Spring Boot da DevSuperior.
 
 ### ✅ Demonstração
 
-Em construção 
-<!-- <img src="https://github.com/gabriel-nt/Podcastr/blob/main/src/assets/home.png" /> -->
+<img src="https://github.com/gabriel-nt/Dsvendas/blob/master/frontend/src/assets/img/dashboard.png" /> 
 
 ### ⚙ Pré-requisitos
 
@@ -70,6 +69,9 @@ $ yarn start
 ```bash
 # Navegue até a pasta
 $ cd backend
+
+# Abre na IDE
+* Rode sua app
 ```
 
 ### 🚀 Tecnologias
@@ -79,12 +81,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React
 - Typescript
 - Spring Boot
+- Postgres
 
 ### 📕 Bibliotecas
 
 Esse projeto foi utilizou das seguintes lib:
 
 - bootstrap
+- react-router-dom
+- date-fns
+- acios
 - react-apexcharts
 
 ### 📝 Licença
