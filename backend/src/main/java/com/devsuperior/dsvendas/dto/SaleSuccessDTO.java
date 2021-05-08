@@ -16,6 +16,14 @@ public class SaleSuccessDTO {
 		this.deals = deals;
 	}
 
+	public String getSellerName() {
+		return sellerName;
+	}
+
+	public void setSellerName(String sellerName) {
+		this.sellerName = sellerName;
+	}
+
 	public Long getVisited() {
 		return visited;
 	}
