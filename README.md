@@ -91,7 +91,7 @@ Esse projeto foi utilizou das seguintes lib:
 - bootstrap
 - react-router-dom
 - date-fns
-- acios
+- axios
 - react-apexcharts
 
 ### 📝 Licença
